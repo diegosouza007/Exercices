@@ -1,4 +1,4 @@
-# Exercices
+# Exercises
 
 In this repository I will use to publish my exercises and challages created for improve my developer skills and for future code reuse.
 
