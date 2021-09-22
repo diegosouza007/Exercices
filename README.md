@@ -1,6 +1,6 @@
 # Exercises
 
-In this repository I will use to publish my exercises and challages created for improve my developer skills and for future code reuse.
+In this repository I will use to publish my exercises, tests and challages done for improve my developer skills and use it for future code query.
 
 ## Technologies used
 
